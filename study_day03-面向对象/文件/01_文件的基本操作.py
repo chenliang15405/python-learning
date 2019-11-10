@@ -61,3 +61,9 @@ while True:
 file.close()
 
 
+# 注意，文件中操作简洁方式：
+"""这种方式就相当于try except了整个打开和关闭的过程，并且最后一定会自动关闭流"""
+"""rb的读取方式 就是说 只读模式并且读取的数据为二进制"""
+with open("README", 'rb') as f:
+    print(f.read())
+
