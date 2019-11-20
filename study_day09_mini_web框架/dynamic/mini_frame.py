@@ -1,4 +1,6 @@
 """服务端框架---动态处理请求的数据信息"""
+from DBAPI import *
+import re
 
 # 定义字典，用来存储路由
 g_url_route = dict()
@@ -23,13 +25,70 @@ def index():
     # 在python中，所以模块计算路径的时候，都是以入口的py文件来作为位置进行计算
     with open("./templates/index.html", 'r', encoding='UTF-8') as f:
         content = f.read()
+
+    # 查询数据库中数据
+    stock_infos = findAll("select * from info")
+
+    html_template = """
+                    <tr>
+                        <td>%s</td>
+                        <td>%s</td>
+                        <td>%s</td>
+                        <td>%s</td>
+                        <td>%s</td>
+                        <td>%s</td>
+                        <td>%s</td>
+                        <td>%s</td>
+                        <td>
+                            <input type="button" value="添加" id="toAdd" name="toAdd"/>
+                        </td>            
+                    </tr>
+                """
+
+    html = ""
+    for info in stock_infos:
+        html += html_template % (info[0], info[1], info[2], info[3], info[4], info[5], info[6], info[7])
+
+    content = re.sub(r"{%content%}", html, content)
+
     return content
 
 
 @router("/center.html")
 def center():
     with open("./templates/center.html", 'r', encoding='UTF-8') as f:
-        return f.read()
+        content = f.read()
+
+    # 查询数据库中数据
+    stock_infos = findAll("select i.code, i.short, i.chg, i.turnover, i.price, i.highs, f.note_info from focus f left join info i on f.info_id = i.id")
+
+    html_template = """
+                    <tr>
+                        <td>%s</td>
+                        <td>%s</td>
+                        <td>%s</td>
+                        <td>%s</td>
+                        <td>%s</td>
+                        <td>%s</td>
+                        <td>%s</td>
+                        <td>
+                            <a type="button" class="btn btn-default btn-xs" href="/">
+                                <span class="glyphicon glyphicon-star" aria-hidden="true">修改</span>
+                            </a>
+                        </td>
+                        <td>
+                            <input type="button" value="添加" id="toAdd" name="toAdd"/>
+                        </td>            
+                    </tr>
+                """
+
+    html = ""
+    for info in stock_infos:
+        html += html_template % (info[0], info[1], info[2], info[3], info[4], info[5], info[6])
+
+    content = re.sub(r"{%content%}", html, content)
+
+    return content
 
 
 def application(env, start_response):
@@ -37,5 +96,11 @@ def application(env, start_response):
 
     file_name = env["PATH_INFO"]
 
-    return g_url_route[file_name]()
+    try:
+        # func = g_url_route[file_name]
+        # return func()
+        return g_url_route[file_name]()
+    except Exception as err:
+        return "发生异常信息 %s" % str(err)
+
 

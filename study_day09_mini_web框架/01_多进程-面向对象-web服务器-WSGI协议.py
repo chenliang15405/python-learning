@@ -72,10 +72,7 @@ class WSGLServer(object):
             env = dict()
             env["PATH_INFO"] = file_name
 
-            try:
-                body = self.application(env, self.start_response)
-            except Exception as err:
-                body = "-------file not found------"
+            body = self.application(env, self.start_response)
 
             header = "HTTP /1.1 %s \r\n" % self.status
             for item in self.headers:
