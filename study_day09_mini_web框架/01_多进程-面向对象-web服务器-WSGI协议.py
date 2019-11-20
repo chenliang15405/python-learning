@@ -48,7 +48,7 @@ class WSGLServer(object):
         response = "HTTP /1.1 200 OK \r\n"
         response += "\r\n"
 
-        if not file_name.endswith(".py"):
+        if not file_name.endswith(".html"):
             try:
                 f = open(self.static_path + file_name, "rb")
             except:
@@ -72,7 +72,10 @@ class WSGLServer(object):
             env = dict()
             env["PATH_INFO"] = file_name
 
-            body = self.application(env, self.start_response)
+            try:
+                body = self.application(env, self.start_response)
+            except Exception as err:
+                body = "-------file not found------"
 
             header = "HTTP /1.1 %s \r\n" % self.status
             for item in self.headers:
