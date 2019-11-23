@@ -25,7 +25,7 @@
     - models.py 数据库的配置, 设计和表对应的类
     - admin.py 后台管理的配置
     
-    应用需要在项目的settings.py文件中注册
+  应用需要在项目的settings.py文件中注册
     
 4. 启动django程序
 在manage.py目录下，运行：
