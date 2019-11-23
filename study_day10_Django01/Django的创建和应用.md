@@ -26,3 +26,9 @@
     - admin.py 后台管理的配置
     
     应用需要在项目的settings.py文件中注册
+    
+4. 启动django程序
+在manage.py目录下，运行：
+`python manage.py runserver`   
+如果需要指定端口启动：
+`python manage.py runserver 127.0.0.1:8001`   

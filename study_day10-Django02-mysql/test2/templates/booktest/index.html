@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div>这是一个模版文件</div>
+<!--模版中通过 获取服务端传递的参数-->
+模版获取数据：<br>
+{{content}}<br>
+
+获取list集合：
+{{list}}<br>
+
+<!--模版中的js代码-->
+<ul>
+    {% for i in list %}
+        <li>{{i}}</li>
+    {% endfor %}
+</ul>
+
+</body>
+</html>
