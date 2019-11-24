@@ -19,7 +19,6 @@ def login_require(view_func):
     return wrapper
 
 
-@login_require
 def index(request):
     return render(request, "booktest/index.html", {})
 

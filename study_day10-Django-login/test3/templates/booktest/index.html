@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<!--动态配置静态文件目录-->
+{% load staticfiles %}
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,6 +19,11 @@
 
     <a href="{% url 'booktest:arg' num=1 %}">动态url跳转...</a>
 
+    <img src="/static/images/1.jpg" alt="">
+    
+<!--    动态加载静态文件目录-->
+    <img src="{% static 'images/1.jpb' %}" alt="">
+    
 </div>
 
 </body>
