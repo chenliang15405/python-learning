@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div>
+    <p>捕获参数：</p>
+    <p>{{num}}</p>
+
+    <form action="">
+        {% csrf_token %}
+        <input type="text" name="username" value="">用户名:
+    </form>
+
+    <a href="{% url 'booktest:arg' num=1 %}">动态url跳转...</a>
+
+</div>
+
+</body>
+</html>
