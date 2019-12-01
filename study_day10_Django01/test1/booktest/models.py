@@ -59,3 +59,8 @@ class HeroInfo(models.Model):
 
     def __str__(self):
         return self.hname
+
+    def name(self):
+        return self.hname
+    name.admin_order_field = 'hname'  # 指定列可以排序，后台管理页面中
+    name.short_description = "名称"  # 指定列的标题
