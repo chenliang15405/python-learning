@@ -1,0 +1,130 @@
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/21267_2206.png/webpdy1", "room_title": "酒馆棋霸王师傅的直播间！", "room_cate": "炉石传说", "root_pnum": "111.6万", "author_name": "王师傅精益求精"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/911_2211.png/webpdy1", "room_title": "骚白巅峰赛系列", "room_cate": "王者荣耀", "root_pnum": "189.8万", "author_name": "骚白"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/11/08/881e406c7dcb047ae842a26f390e6e67.jpg?x-oss-process=image/format,webp/quality,q_70", "room_title": "乌鸦：七点答题，月初我来了!", "room_cate": "火影忍者", "root_pnum": "71.7万", "author_name": "王者之路乌鸦"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/96291_2206.png/webpdy1", "room_title": "", "room_cate": "", "root_pnum": "", "author_name": ""}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/11/20/f26b3fdfae4b72a9d9f30be2150255cb.png?x-oss-process=image/format,webp/quality,q_70", "room_title": "", "room_cate": "", "root_pnum": "", "author_name": ""}
+{"room_img": "https://shark2.douyucdn.cn/front-publish/sdk-file-master/room_list_default@2x_a960c5b.png", "room_title": "", "room_cate": "", "root_pnum": "", "author_name": ""}
+{"room_img": "https://shark2.douyucdn.cn/front-publish/sdk-file-master/room_list_default@2x_a960c5b.png", "room_title": "", "room_cate": "", "root_pnum": "", "author_name": ""}
+{"room_img": "https://shark2.douyucdn.cn/front-publish/sdk-file-master/room_list_default@2x_a960c5b.png", "room_title": "", "room_cate": "", "root_pnum": "", "author_name": ""}
+{"room_img": "https://shark2.douyucdn.cn/front-publish/sdk-file-master/room_list_default@2x_a960c5b.png", "room_title": "", "room_cate": "", "root_pnum": "", "author_name": ""}
+{"room_img": "https://shark2.douyucdn.cn/front-publish/sdk-file-master/room_list_default@2x_a960c5b.png", "room_title": "", "room_cate": "", "root_pnum": "", "author_name": ""}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/99999_2201.png/webpdy1", "room_title": "参加斗地主之神争霸赛，周末记得清空荧光棒", "room_cate": "DNF", "root_pnum": "799.1万", "author_name": "旭旭宝宝"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/12/01/7f1d6ae49d8ca0716983e18fe23cd4d0.jpg/webpdy1", "room_title": "重播 | 14日总决赛 AG vs QG", "room_cate": "王者荣耀", "root_pnum": "523.4万", "author_name": "王者荣耀官方赛事"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/11/26/414434425c776a6bae2b17d5e73a84ea.jpg/webpdy1", "room_title": "排位冲分，当一个既快乐又能上分的赌狗！", "room_cate": "lol云顶之弈", "root_pnum": "68.2万", "author_name": "梨落秋溪"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/5551871_468241_5b32c_2_2200.jpg/webpdy1", "room_title": "去看林俊杰啦！今天随缘直播啦 记得续牌～", "room_cate": "舞蹈", "root_pnum": "59.7万", "author_name": "Minana呀"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/11/13/6539854_20191113125751_small.jpg/webpdy1", "room_title": "肚子不舒服，下棋不露脸了", "room_cate": "颜值", "root_pnum": "9.6万", "author_name": "野生的艾筱筱"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/10/23/ff630ae3ad98ce19ba8e1526e3427178_big.jpg/webpdy1", "room_title": "挑战单身10年第3000天", "room_cate": "颜值", "root_pnum": "1.2万", "author_name": "鹿丸噗哩Lus丷"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/288016_2201.png/webpdy1", "room_title": "全明星周末对决日重播", "room_cate": "英雄联盟", "root_pnum": "661.7万", "author_name": "英雄联盟赛事"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/11/08/7962db4198310f68b1399edcdd79cf45_big.jpg/webpdy1", "room_title": "谢谢救赎哥的公爵", "room_cate": "颜值", "root_pnum": "7.8万", "author_name": "李思潼Daisy"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/485503_2207.png/webpdy1", "room_title": "我想在海边有一个房子", "room_cate": "户外", "root_pnum": "1432.4万", "author_name": "彡彡九户外"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/554559_2207.png/webpdy1", "room_title": "8点斗地主，超级粉团冲冲冲", "room_cate": "户外", "root_pnum": "502.5万", "author_name": "峰峰三号333"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/100_2201.png/webpdy1", "room_title": "【WEGL微博杯S3】AB组", "room_cate": "绝地求生", "root_pnum": "542.1万", "author_name": "斗鱼绝地赛事"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/520_2206.png/webpdy1", "room_title": "做小饼干~", "room_cate": "英雄联盟", "root_pnum": "352.5万", "author_name": "阿冷aleng丶"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/9999_2206.png/webpdy1", "room_title": "锤！！！！！ 9999", "room_cate": "DOTA2", "root_pnum": "332万", "author_name": "yyfyyf"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/11/27/6588295_20191127183724_small.jpg/webpdy1", "room_title": "初来乍到有点方 6588295", "room_cate": "颜值", "root_pnum": "5.1万", "author_name": "蹄子酱"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/11/30/7811281_20191130200200_small.jpg/webpdy1", "room_title": "新人第一天求关注鸭~", "room_cate": "颜值", "root_pnum": "1.1万", "author_name": "霜皮奶"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/2947432_2202.png/webpdy1", "room_title": "呆妹：哥哥~有1.5倍亲密度加上限", "room_cate": "绝地求生", "root_pnum": "312.2万", "author_name": "呆妹儿小霸王"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/6512_2201.png/webpdy1", "room_title": "斗地主争霸赛！", "room_cate": "传奇", "root_pnum": "282.8万", "author_name": "雨神丶"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/1203352_2202.png/webpdy1", "room_title": "五国服五排，进来学", "room_cate": "王者荣耀", "root_pnum": "229.8万", "author_name": "BOA小强"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/11/24/7796243_20191124180523_small.jpg/webpdy1", "room_title": "好冷ಥ_ಥ", "room_cate": "颜值", "root_pnum": "1.1万", "author_name": "月野猫儿"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/6580096_7828797_02d5c_2_2201.jpg/webpdy1", "room_title": "空乘专业小改改在线聊天～", "room_cate": "颜值", "root_pnum": "4万", "author_name": "含笑baby"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/4615502_2202.png/webpdy1", "room_title": "今天1.5倍亲密度~记得送荧光棒棒哦~", "room_cate": "绝地求生", "root_pnum": "220.6万", "author_name": "一条小团团OvO"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/20/c0695e6773618e3c75ab825d4a8007eb.jpg/webpdy1", "room_title": "我带你们打 9418", "room_cate": "CS:GO", "root_pnum": "211.9万", "author_name": "Big茄子"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/1984839_2207.png/webpdy1", "room_title": "恭喜SLT战队夺得总冠军！", "room_cate": "王者荣耀", "root_pnum": "204万", "author_name": "王者荣耀韩国官方赛事"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/11/27/7476713_20191127193455_small.jpg/webpdy1", "room_title": "弟弟多喝热水", "room_cate": "颜值", "root_pnum": "4.2万", "author_name": "西西不高兴"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/10/29/7716387_20191029171654.jpg/webpdy1", "room_title": "yaq21厅：阿木冠/可儿最可爱", "room_cate": "陪玩", "root_pnum": "1.4万", "author_name": "Yaq丶陪玩派单21厅"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/911_2156.png/webpdy1", "room_title": "骚白巅峰赛系列", "room_cate": "王者荣耀", "root_pnum": "200.3万", "author_name": "骚白"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/96291_2201.png/webpdy1", "room_title": "宇宙第一寒冰 相声艺术家 我来啦！", "room_cate": "英雄联盟", "root_pnum": "189.8万", "author_name": "东北大鹌鹑"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/3168536_2202.png/webpdy1", "room_title": "【XDD】训练训练训练.", "room_cate": "绝地求生", "root_pnum": "166.9万", "author_name": "Xleft小叮当"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/430489_2202.png/webpdy1", "room_title": "晚上八点半开", "room_cate": "户外", "root_pnum": "406.5万", "author_name": "长沙乡村敢死队"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/3559749_2207.png/webpdy1", "room_title": "苏恩：十点开始营业！", "room_cate": "舞蹈", "root_pnum": "249.5万", "author_name": "苏恩Olivia"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/101367_2201.png/webpdy1", "room_title": "亚服高分局，最流畅的操作", "room_cate": "绝地求生", "root_pnum": "166.2万", "author_name": "轻语丶619"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/5524515_2203.png/webpdy1", "room_title": "丈育王番，丈话交流一下吗", "room_cate": "绝地求生", "root_pnum": "128.1万", "author_name": "陈死狗cnh"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/1165924_2207.png/webpdy1", "room_title": "周日咯，又可以休息啦，哈哈哈", "room_cate": "欢乐麻将", "root_pnum": "125.2万", "author_name": "靓旭"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/1725037_7501738_22483_2_2206.jpg/webpdy1", "room_title": "新主播第三天1725037", "room_cate": "颜值", "root_pnum": "224万", "author_name": "嘉茵baby"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/1221923_2207.png/webpdy1", "room_title": "粉丝团干干干", "room_cate": "户外", "root_pnum": "206.9万", "author_name": "JSA丶北京小王哥"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/952595_2207.png/webpdy1", "room_title": "最骚二指！幸福直播间", "room_cate": "和平精英", "root_pnum": "124.3万", "author_name": "Dy花老湿"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/3484_2206.png/webpdy1", "room_title": "JumpkingTV", "room_cate": "星际争霸", "root_pnum": "119.2万", "author_name": "scboy"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/11/20/f26b3fdfae4b72a9d9f30be2150255cb.png/webpdy1", "room_title": "超神杯小组赛", "room_cate": "DOTA", "root_pnum": "114.3万", "author_name": "伍声2009"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/10/27/1595132_20191027100754_small.jpg/webpdy1", "room_title": "想要办卡 能抢一下吗", "room_cate": "颜值", "root_pnum": "25.8万", "author_name": "橘右羊"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/11/30/7722034_20191130191039_small.jpg/webpdy1", "room_title": "今天是粉色的西瓜", "room_cate": "颜值", "root_pnum": "4.6万", "author_name": "小西瓜angel"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/19002_2206.png/webpdy1", "room_title": "梦幻联赛S13预选赛 中国区主舞台", "room_cate": "DOTA2", "root_pnum": "108.4万", "author_name": "imbadota2频道"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/11/29/cd924d00592279327e1c77258d719941.jpg/webpdy1", "room_title": "19点季后赛 QG vs RNGM", "room_cate": "QQ飞车", "root_pnum": "105万", "author_name": "QQ飞车手游官方直播间"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/11/29/09ed6421de2fe1601f689eb0c3094ad5.png/webpdy1", "room_title": "P1联赛-常规赛第四周", "room_cate": "跑跑手游", "root_pnum": "103.7万", "author_name": "跑跑卡丁车官方竞速版"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/14/3853457_20190814094651_small.jpg/webpdy1", "room_title": "品，你细品 3853457", "room_cate": "颜值", "root_pnum": "29.9万", "author_name": "歌神韦爵爷"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/01/1282190_20190801002745_small.jpg/webpdy1", "room_title": "喜欢你笑起来的样子", "room_cate": "颜值", "root_pnum": "38.4万", "author_name": "鲸鱼一米八"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/88660_2206.png/webpdy1", "room_title": "mj预选赛解说~", "room_cate": "DOTA2", "root_pnum": "102.5万", "author_name": "Zhou陈尧"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/2267291_2207.png/webpdy1", "room_title": "[shou]滴滴~三倍真香！", "room_cate": "绝地求生", "root_pnum": "95.4万", "author_name": "17shou丷"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/1433223_2207.png/webpdy1", "room_title": "辣个女人的直播间", "room_cate": "王者荣耀", "root_pnum": "95.2万", "author_name": "呆阿拿"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/11/08/5695362_20191108210959_small.jpg/webpdy1", "room_title": "等一个城堡！！！", "room_cate": "颜值", "root_pnum": "13.4万", "author_name": "卖火柴的露露"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/7141273_6616466_67592_2_2205.jpg/webpdy1", "room_title": "人间熙攘 好久不见 7141273", "room_cate": "颜值", "root_pnum": "49.4万", "author_name": "发了芽的小薯条"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/793400_2207.png/webpdy1", "room_title": "无痕 亮哥 特特 阿杰 拖米", "room_cate": "王者荣耀", "root_pnum": "94.7万", "author_name": "DL丶拖米"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/10/12/174e45b6194121d8cc06ff78c5ba0d3c.jpg/webpdy1", "room_title": "十二月新的开始Fighting！", "room_cate": "DNF", "root_pnum": "94.6万", "author_name": "一阵雨不是一阵奶"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/1457640_2202.png/webpdy1", "room_title": "神秘的直播间 88080", "room_cate": "绝地求生", "root_pnum": "94万", "author_name": "仙某某"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/11/01/34137020c4a76f821ebfda3cd7465129_big.png/webpdy1", "room_title": "以貌会友，我是你的那颗怦然心动吗", "room_cate": "颜值", "root_pnum": "172.5万", "author_name": "奔跑的姜允儿"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/11/06/7532072_20191106004739.jpg/webpdy1", "room_title": "辣条:饲养员，我就在这里不离不弃.", "room_cate": "陪玩", "root_pnum": "1.6万", "author_name": "繁星一十里承欢"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/74960_2201.png/webpdy1", "room_title": "来这里开心就好！ 74960", "room_cate": "DOTA2", "root_pnum": "92.5万", "author_name": "叫我老陈就好了"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/5526219_2208.png/webpdy1", "room_title": "第一女刺客！！", "room_cate": "英雄联盟", "root_pnum": "92.1万", "author_name": "南波儿大魔王丶"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/5910850_2208.png/webpdy1", "room_title": "1700分巅峰赛冲国服干将!输了发188", "room_cate": "王者荣耀", "root_pnum": "90.4万", "author_name": "温柚v最强女打野"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/7309610_7575967_0385e_2_2156.jpg/webpdy1", "room_title": "明镜亦非台 何处惹尘埃", "room_cate": "颜值", "root_pnum": "7.1万", "author_name": "苏城小娘鱼Vivi"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/701979_974894_60899_2_2159.jpg/webpdy1", "room_title": "7777听歌", "room_cate": "颜值", "root_pnum": "161万", "author_name": "睡懵的小七"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/138243_2206.png/webpdy1", "room_title": "胡凯利：欢乐时光已经开始了！", "room_cate": "英雄联盟", "root_pnum": "87.8万", "author_name": "洞主丨歌神洞庭湖"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/1144379_2202.png/webpdy1", "room_title": "上分吗~我婉儿贼6", "room_cate": "王者荣耀", "root_pnum": "87.6万", "author_name": "雷婷丶"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/134000_2201.png/webpdy1", "room_title": "Q路人王：吃好喝足看天秀呀", "room_cate": "和平精英", "root_pnum": "86.6万", "author_name": "小QIMBA"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/10/22/1448245_20191022030553_small.jpg/webpdy1", "room_title": "男孩子是不是都喜欢风情万种的女孩子", "room_cate": "颜值", "root_pnum": "33.5万", "author_name": "姣姣大魔王O"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/09/20/a6dac8d20c9f75f8652cf38f260c52ea_big.png/webpdy1", "room_title": "12月加油啊！！6826077", "room_cate": "颜值", "root_pnum": "14.8万", "author_name": "是沧沧"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/71415_2201.png/webpdy1", "room_title": "寅子的随缘游戏教室", "room_cate": "模拟人生", "root_pnum": "86万", "author_name": "寅子"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/5472749_2208.png/webpdy1", "room_title": "【错觉】又是帅气逼人的一个月", "room_cate": "绝地求生", "root_pnum": "85.8万", "author_name": "错觉老中医"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/486808_2207.png/webpdy1", "room_title": "像一只勇猛的大野牛", "room_cate": "DNF", "root_pnum": "85.5万", "author_name": "一笑zy"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/7580661_7784557_59470_2_2211.jpg/webpdy1", "room_title": "升个级休个假", "room_cate": "颜值", "root_pnum": "12.4万", "author_name": "邦尼bunnyy"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/540434_2207.png/webpdy1", "room_title": "《师徒总动员》", "room_cate": "户外", "root_pnum": "157.4万", "author_name": "灵魂刀神"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/21267_2201.png/webpdy1", "room_title": "酒馆棋霸王师傅的直播间！", "room_cate": "炉石传说", "root_pnum": "83.2万", "author_name": "王师傅精益求精"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/3733860_2207.png/webpdy1", "room_title": "吃可爱长大的蘑菇~", "room_cate": "欢乐麻将", "root_pnum": "83.2万", "author_name": "暴Tui团丶小蘑菇"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/36252_2201.png/webpdy1", "room_title": "Gemini：带FLY上分！", "room_cate": "王者荣耀", "root_pnum": "83万", "author_name": "MrGemini"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/06/26/0b004fa795f62dd164f890e6b9c5c792_big.jpg/webpdy1", "room_title": "今夜没有星星，请你看看我的眼睛", "room_cate": "颜值", "root_pnum": "6.9万", "author_name": "Zz屁屁是金多多"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/11/21/6837192_20191121114525_small.jpg/webpdy1", "room_title": "此用户已关注你", "room_cate": "颜值", "root_pnum": "4.1万", "author_name": "一坨坨坨呐"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/11/15/99b26decd02962c7401251e0eeb37b35.jpg/webpdy1", "room_title": "华山论剑冬季赛常规赛第五轮 【重播】", "room_cate": "狼人杀", "root_pnum": "82.5万", "author_name": "华山论剑官方职业联赛"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/12/01/646e2e14ff1593ed2ff25f35b3cf6f78.jpg/webpdy1", "room_title": "12月1日14:00全明星赛", "room_cate": "CF手游", "root_pnum": "82.3万", "author_name": "CF手游官方直播间"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/5377721_2208.png/webpdy1", "room_title": "看完必上钻！锐雯教学！", "room_cate": "英雄联盟", "root_pnum": "80.6万", "author_name": "Xx丶锐雯"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/4632993_2202.png/webpdy1", "room_title": "小深深儿：♪(^∇^*)", "room_cate": "舞蹈", "root_pnum": "150万", "author_name": "小深深儿"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/09/28/7597559_20190928002132.jpg/webpdy1", "room_title": "【交友】 由“噜噜 拾墨“冠名", "room_cate": "交友", "root_pnum": "138.5万", "author_name": "小象一如鲸向海"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/844947_2207.png/webpdy1", "room_title": "弈哥：不赌不知财运到", "room_cate": "lol云顶之弈", "root_pnum": "78.4万", "author_name": "山东棋王弈哥"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/870931_2207.png/webpdy1", "room_title": "顶级4V4 冲出区域", "room_cate": "DNF", "root_pnum": "77.7万", "author_name": "李永"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/2293920_2207.png/webpdy1", "room_title": "年度优秀，省棋王金牌教练零到业九速成！", "room_cate": "中国象棋", "root_pnum": "77.3万", "author_name": "日月轮回888"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/1975380_2202.png/webpdy1", "room_title": "你好呀陌生人 1975380", "room_cate": "舞蹈", "root_pnum": "114.1万", "author_name": "王筱沫丶"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/5302216_2208.png/webpdy1", "room_title": "♥ 新歌《因为是你》已上线", "room_cate": "二次元", "root_pnum": "109.8万", "author_name": "童可可"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/7393165_2209.png/webpdy1", "room_title": "宇宙棋神已经吃鸡吃到吐了", "room_cate": "王者荣耀", "root_pnum": "76.9万", "author_name": "我是乔万旭"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/12313_2201.png/webpdy1", "room_title": "叶音符:刷人型打野 K头教父。", "room_cate": "英雄联盟", "root_pnum": "76.6万", "author_name": "叶音符"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/2448877_2207.png/webpdy1", "room_title": "2020年世界冠军！", "room_cate": "绝地求生", "root_pnum": "73.3万", "author_name": "20岁天才歌手Running"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/11/24/be6d1846edffda51c2deadc979eb2a60_big.jpg/webpdy1", "room_title": "行千万里再别忘了初心", "room_cate": "颜值", "root_pnum": "95.3万", "author_name": "程心曲"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/533813_2207.png/webpdy1", "room_title": "TDA~泰国我们来了！", "room_cate": "户外", "root_pnum": "89.8万", "author_name": "TD丶正直博"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/5146843_2208.png/webpdy1", "room_title": "第一露娜 死3次随便喷", "room_cate": "王者荣耀", "root_pnum": "73.2万", "author_name": "月下无限连小啊鹏"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/160504_2206.png/webpdy1", "room_title": "清空荧光棒啦！1.5倍亲密度！", "room_cate": "三国杀", "root_pnum": "72.7万", "author_name": "丶砍你焉用菜刀"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/11/08/881e406c7dcb047ae842a26f390e6e67.jpg/webpdy1", "room_title": "乌鸦：七点答题，月初我来了!", "room_cate": "火影忍者", "root_pnum": "72.1万", "author_name": "王者之路乌鸦"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/673531_2202.png/webpdy1", "room_title": "今天日榜一我自费面基", "room_cate": "美食", "root_pnum": "84.8万", "author_name": "梦蝶小公举丶"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/11/13/7767847_20191113003612.jpg/webpdy1", "room_title": "【交友】招优质的主持", "room_cate": "交友", "root_pnum": "84.7万", "author_name": "鱼乐一甜甜的你"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/19223_2206.png/webpdy1", "room_title": "QQQ：稳定理财，不吃5鸡不下播！", "room_cate": "绝地求生", "root_pnum": "71.5万", "author_name": "气人主播QQQ"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/5384600_2208.png/webpdy1", "room_title": "【骚某某】谁是卧底模式", "room_cate": "绝地求生", "root_pnum": "70.3万", "author_name": "我是骚某某"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/525207_2207.png/webpdy1", "room_title": "直播：黄金公开赛金华站-决赛日", "room_cate": "炉石传说", "root_pnum": "69.8万", "author_name": "暴雪游戏频道"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/11/28/6961267_20191128220216_small.jpg/webpdy1", "room_title": "1.5倍亲密度~兄弟萌 集合冲鸭", "room_cate": "颜值", "root_pnum": "80.1万", "author_name": "小水Cassiel"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/5763963_2208.png/webpdy1", "room_title": "海南蛇类科普131期，冲超级粉丝团", "room_cate": "户外", "root_pnum": "70.9万", "author_name": "蛇类科普蛇哥"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/110174_2206.png/webpdy1", "room_title": "晚点直播 预计21点30", "room_cate": "MUGEN", "root_pnum": "69.5万", "author_name": "梦醒丨"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/4494106_2202.png/webpdy1", "room_title": "瞧一瞧，看一看~", "room_cate": "和平精英", "root_pnum": "69.3万", "author_name": "Forever浪子断"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/1589636_2202.png/webpdy1", "room_title": "【阿聪】OB微博杯，8-9点斗地主比赛", "room_cate": "绝地求生", "root_pnum": "68.1万", "author_name": "阿聪丷"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/10/21/13_20191021111448.jpg/webpdy1", "room_title": "本厅由铁骨/天晓/萌萌哒冠名！招收主持", "room_cate": "交友", "root_pnum": "63万", "author_name": "星娛樂一阿Q交友"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/1010383_2207.png/webpdy1", "room_title": "1.5倍粉丝牌升级+上限", "room_cate": "二次元", "root_pnum": "62.1万", "author_name": "王羽杉Barbieshy"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/11/29/9e71ed9760a3a83b69a26a749f6bf329.jpg/webpdy1", "room_title": "今天又是元气满满的一天 5943298", "room_cate": "多多自走棋", "root_pnum": "67.5万", "author_name": "9加老白"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/451517_2207.png/webpdy1", "room_title": "梦幻联赛S13预选赛 中国区副舞台", "room_cate": "DOTA2", "root_pnum": "66.3万", "author_name": "imbadota2频道2"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/2311698_2207.png/webpdy1", "room_title": "【斯祥】今天清空荧光棒！塔科夫启动！！", "room_cate": "APEX英雄", "root_pnum": "65万", "author_name": "斯祥丶"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/05/13/947b6f9b699c7c9bb81a1142169a5cca.jpg/webpdy1", "room_title": "直播|温柔女声唱给你听", "room_cate": "电台", "root_pnum": "56.5万", "author_name": "南曼玉"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/3866447_6531353_36e74_2_2201.jpg/webpdy1", "room_title": "1.5倍亲密度！冲鸭", "room_cate": "颜值", "root_pnum": "56万", "author_name": "十二月老铁"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/6314305_2208.png/webpdy1", "room_title": "四排娱乐战车局~", "room_cate": "和平精英", "root_pnum": "64.3万", "author_name": "小神兽三岁"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/5697402_2208.png/webpdy1", "room_title": "【WEGL微博杯】OMG视角", "room_cate": "绝地求生", "root_pnum": "64.1万", "author_name": "OMG小狮子lionkk"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/296059_2207.png/webpdy1", "room_title": "【WEGL微博杯】4AM战队视角", "room_cate": "绝地求生", "root_pnum": "63.6万", "author_name": "4AM王欣"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/1209_2206.png/webpdy1", "room_title": "今晚八点半见哦~卡桑们~(*°∀°)=3", "room_cate": "二次元", "root_pnum": "53.4万", "author_name": "纳豆nado"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/447507_2207.png/webpdy1", "room_title": "硇洲岛出海下网", "room_cate": "户外", "root_pnum": "53.3万", "author_name": "洪湖小肖"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/147887_2206.png/webpdy1", "room_title": "西瓜：强化增幅他又来了", "room_cate": "DNF", "root_pnum": "61.5万", "author_name": "隔壁家的小妹妹"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/532152_2207.png/webpdy1", "room_title": "想要用微笑面对每一天", "room_cate": "DOTA2", "root_pnum": "59.2万", "author_name": "YaphetS丶666"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/11/29/13e4cd9d202105a190d3a061ebc15652.jpg/webpdy1", "room_title": "那个男人出现了！！！！！！！", "room_cate": "DNF", "root_pnum": "59.1万", "author_name": "武神59"}
+{"room_img": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/11/19/6548062_20191119152111.jpg/webpdy1", "room_title": "【交友】董小贰独冠", "room_cate": "交友", "root_pnum": "50.2万", "author_name": "SR一私人订制"}
+{"room_img": "https://rpic.douyucdn.cn/asrpic/191201/468241_5551871_5b32c_2_2200.jpg/webpdy1", "room_title": "徒步深圳23天到达郴州市。", "room_cate": "美食", "root_pnum": "48.2万", "author_name": "魅力生活i"}
