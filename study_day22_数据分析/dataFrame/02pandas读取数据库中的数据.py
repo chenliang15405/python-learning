@@ -16,3 +16,12 @@ print(t1)
 df = pd.DataFrame(data)
 print(df)
 
+
+# 显示头几行
+print(df.head(1))  # 显示头一行
+
+print(df.tail(2))  # 显示尾部2行
+
+print(df.info())  # 显示df的概览
+
+print(df.describe())  # 显示均值、最大值、最小值等数据

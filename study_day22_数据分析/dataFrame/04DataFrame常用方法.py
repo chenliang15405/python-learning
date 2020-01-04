@@ -6,7 +6,7 @@ pandas中DataFrame的常用方法：
         df.ndim   数据纬度
         df.index  行索引
         df.columns  列索引
-        df.values  对象值 俄日为ndarray 数组
+        df.values  对象值 为ndarray 数组
 
     DataFrame整体情况查询
         df.head(3)  显示头部几行，默认5行
@@ -30,6 +30,7 @@ df = pd.read_csv("./dogNames2.csv")
 # print(df.head)
 # print(df.info)
 
+# by是通过那一列排序，并可以设置升序或者降序
 df = df.sort_values(by="Count_AnimalName", ascending=False)
 # print(s1.head(10))
 
@@ -37,16 +38,26 @@ df = df.sort_values(by="Count_AnimalName", ascending=False)
 """
  
 """
+# 取前20行
 print(df[:20])
 
 print("*" * 100)
 
+# 取前20行中的某一列
 print(df[:20]["Row_Labels"])
 
-# 取多行、多列、点的值
+"""
+pandas中，取行或者取列的注意点：
+    - 方括号写数字，表示取行，对行进行草错
+    - 方括号写字符串，表示取列索引，对列进行操作，因为列索引相当于标题，行索引表示个数，通过列索引取的是该一列的数据
+
+"""
+
+
+# 取多行、多列、点的值，
 df = pd.DataFrame(np.arange(12).reshape((3, 4)), index=list("abc"), columns=list("AWYH"))
 
-# 取的是 行索引为 a， 列索引为 W的那一点的值
+# 取的是 行索引为 a， 列索引为 W的那一点的值， loc 通过 行索引的值、列索引的值来获取数据
 print(df.loc["a", "W"])
 
 # 获取每一行，第索引为Y的那一列的值
@@ -63,7 +74,7 @@ print(df.loc[:, ["A", "H"]])
 print(df.loc[["a", "b"], ["A", "Y"]])
 
 
-# 通过 iloc 获取
+# 通过 iloc 获取, iloc可以通过 数字，第几行 第几行 获取
 
 # 第一行，每一列  行是从0开始的
 print(df.iloc[1, :])
@@ -78,8 +89,8 @@ print(df.iloc[[1, 2], [2, 3]])
 # 赋值，更改数据
 print(df.iloc[1:, :2])
 
-df.iloc[1:, :2] = 30  
+df.iloc[1:, :2] = 30
 print(df)
 
 
-print(df["A"])  # 这样取值，获取的是列索引对应的数据
+print(df["A"])  # 这样取值，获取的是列索引对应的数据，因为方括号中是字符串，就是取列索引对应的数据
